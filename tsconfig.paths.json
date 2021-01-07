@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@libs/*": [
+        "src/libs/*"
+      ],
+      "@controllers/*": [
+        "src/controllers/*"
+      ],
+      "@models/*": [
+        "src/models/*"
+      ],
+      "@validations/*": [
+        "src/validations/*"
+      ],
+      "@config/*": [
+        "src/config/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+    }
+  }
+}
